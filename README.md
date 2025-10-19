@@ -56,19 +56,7 @@ This script is configured to use the small English model.
 2.  Create a folder named `models` in the project directory.
 3.  Extract the contents of the downloaded ZIP file into the `models` folder.
 
-Your directory structure should look like this:
 
-
-VoiceAssistant/
-├── models/
-│   └── vosk-model-small-en-us-0.15/
-│       ├── am/
-│       ├── conf/
-│       └── ...
-├── venv/
-├── .gitignore
-├── requirements.txt
-└── voice_assistant_api.py
 
 
 ### 5\. Configure Your Environment File
